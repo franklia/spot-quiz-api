@@ -42,10 +42,10 @@ These instructions will get you a copy of the project up and running on your loc
 - In the Mongo Shell, run `use spot_quiz_dev` to create a new database
 - Create a .env file in the root directory using the template below
 
-PORT=3001
-CORS_ORIGIN=http://localhost:3000
-MONGODB_URI=<enter your own mongoDB uri>
-DEBUG=true
+PORT=3001  
+CORS_ORIGIN=http://localhost:3000  
+MONGODB_URI=<enter your own mongoDB uri>  
+DEBUG=true  
 AUTH0_ADMIN_ID=[an Auth0 user ID for system categories] - See Installation instructions in frontend README for further details: https://github.com/franklia/spot-quiz-frontend.git Once you've created an Auth0 user via the application "Login / Sign Up" button, you can locate the user ID inside your Auth0 account under "Users & Roles".
 
 - Run `npm start` to start the app in development mode
