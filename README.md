@@ -49,8 +49,3 @@ DEBUG=true
 AUTH0_ADMIN_ID=[an Auth0 user ID for system categories] - See Installation instructions in frontend README for further details: https://github.com/franklia/spot-quiz-frontend.git Once you've created an Auth0 user via the application "Login / Sign Up" button, you can locate the user ID inside your Auth0 account under "Users & Roles".
 
 - Run `npm start` to start the app in development mode
-
-## Author & Licence
-
-This project was written by Frank Liardet
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
