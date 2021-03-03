@@ -1,4 +1,4 @@
-# Spot Quiz api
+# Spot Quiz API
 
 This React project is designed to work in unison with it's frontend UI found here: https://github.com/franklia/spot-quiz-frontend and hosted here: https://spotquiz.loboadventures.com.au
 
